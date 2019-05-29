@@ -1,0 +1,9 @@
+{
+    "name": "inchie/test",
+    "description": "Testing Packagist",
+    "keywords": ["log","logging"],
+    
+    "require": {
+        "php": ">=5.3.0"
+    }    
+}
